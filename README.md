@@ -1,6 +1,6 @@
 # Olá, sou o Matheus 👋
 
-Estudante de Tecnologia na FIAP, focado em desenvolvimento full stack e integração de chatbots.
+"1º ano de ADS na FIAP. Explorando full stack, bancos de dados e chatbots com IA."
 
 ## 🔧 Stack
 
