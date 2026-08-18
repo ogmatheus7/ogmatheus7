@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, sou o Matheus 👋
 
-<!--
-**ogmatheus7/ogmatheus7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia na FIAP, focado em desenvolvimento full stack e integração de chatbots.
 
-Here are some ideas to get you started:
+## 🔧 Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** Java, Python, JavaScript
+- **Front-end:** HTML, CSS, JS puro
+- **Banco de dados:** Oracle SQL
+- **Chatbot/Automação:** IBM Watson Assistant, Node-RED
+- **Ferramentas:** Git, IntelliJ, VS Code, PyCharm
+
+## 🚀 Projeto em destaque — OrbitShare
+Plataforma de rideshare de satélites — projeto multidisciplinar da FIAP (Global Solution 2026/1).
+
+- 🌐 [Front-end](https://github.com/ogmatheus7/orbitshare-frontend)
+- ☕ [Java](https://github.com/ogmatheus7/orbitshare-java)
+- 🗄️ [Modelagem Oracle DB](https://github.com/ogmatheus7/orbitshare-database)
+- 🐍 [Sistema Python](https://github.com/ogmatheus7/orbitshare-python)
+- 🤖 [Chatbot (Watson + Telegram)](https://github.com/ogmatheus7/orbitshare-chatbot)
+
+## 📫 Contato
+
+- LinkedIn: [matheus-yudi](https://www.linkedin.com/in/matheus-yudi-15b9533b6/)
+- Email: [yudimatheus759@gmail.com](mailto:yudimatheus759@gmail.com)
