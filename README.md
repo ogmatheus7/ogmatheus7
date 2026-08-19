@@ -21,5 +21,5 @@ Plataforma de rideshare de satélites — projeto multidisciplinar da FIAP (Glob
 
 ## 📫 Contato
 
-- LinkedIn: [matheus-yudi](https://www.linkedin.com/in/matheus-yudi-15b9533b6/)
+- LinkedIn: [matheus-yudi](https://www.linkedin.com/in/matheus-yudi7/)
 - Email: [yudimatheus759@gmail.com](mailto:yudimatheus759@gmail.com)
