@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="MATHEUS YUDI" width="100%" />
+  <img src="SEU-BANNER-AQUI" width="100%" />
 </p>
 
 <h1 align="center">Matheus Yudi 👋</h1>
