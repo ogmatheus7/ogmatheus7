@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/9e661930-985a-43ab-8732-f7a1a5853cb5" />
-" width="100%" />
+  <img
+    src="https://github.com/user-attachments/assets/9e661930-985a-43ab-8732-f7a1a5853cb5"
+    width="100%"
+    alt="Banner Matheus Yudi"
+  />
 </p>
 
 <h1 align="center">Matheus Yudi 👋</h1>
@@ -8,7 +11,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Estudante+de+ADS+na+FIAP;Java+%7C+Python+%7C+JavaScript;Banco+de+Dados+%7C+IA+%7C+Automa%C3%A7%C3%A3o;Construindo+projetos+e+evoluindo+como+dev" />
 </p>
-
 <p align="center">
   1º ano de ADS na FIAP. Explorando full stack, bancos de dados e chatbots com IA.
 </p>
