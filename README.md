@@ -1,11 +1,11 @@
 <p align="center">
   <img
-    src="<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/4dd1a700-7b9d-4f6c-a4e8-b542989ce0db" />
-"
+    src="[https://github.com/user-attachments/assets/4dd1a700-7b9d-4f6c-a4e8-b542989ce0db](https://github.com/user-attachments/assets/4dd1a700-7b9d-4f6c-a4e8-b542989ce0db)"
     width="100%"
     alt="Banner Matheus Yudi"
   />
 </p>
+
 <h1 align="center">Matheus Yudi 👋</h1>
 
 <p align="center">
