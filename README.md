@@ -1,11 +1,10 @@
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/9e661930-985a-43ab-8732-f7a1a5853cb5"
+    src="https://github.com/user-attachments/assets/COLOQUE-AQUI-O-LINK-DA-IMAGEM"
     width="100%"
     alt="Banner Matheus Yudi"
   />
 </p>
-
 <h1 align="center">Matheus Yudi 👋</h1>
 
 <p align="center">
