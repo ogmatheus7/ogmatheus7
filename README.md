@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="SEU-BANNER-AQUI" width="100%" />
+  <img src="<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/9e661930-985a-43ab-8732-f7a1a5853cb5" />
+" width="100%" />
 </p>
 
 <h1 align="center">Matheus Yudi 👋</h1>
