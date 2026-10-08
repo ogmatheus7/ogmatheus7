@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./matheus-yudi-banner.gif" width="100%" alt="Banner Matheus Yudi" />
+  <img src="./matheus-yudi-banner.gif?v=2" width="100%" alt="Banner Matheus Yudi" />
 </p>
 
 <h1 align="center">Matheus Yudi 👋</h1>
