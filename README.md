@@ -2,8 +2,6 @@
   <img src="./matheus-yudi-banner.gif2?v=2" width="100%" alt="Banner Matheus Yudi" />
 </p>
 
-<h1 align="center">Matheus Yudi 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Estudante+de+ADS+na+FIAP;Java+%7C+Python+%7C+JavaScript;Banco+de+Dados+%7C+IA+%7C+Automa%C3%A7%C3%A3o;Construindo+projetos+e+evoluindo+como+dev" />
 </p>
