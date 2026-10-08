@@ -1,9 +1,5 @@
 <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/4dd1a700-7b9d-4f6c-a4e8-b542989ce0db"
-    width="100%"
-    alt="Banner Matheus Yudi"
-  />
+  <img src="./matheus-yudi-banner.gif" width="100%" alt="Banner Matheus Yudi" />
 </p>
 
 <h1 align="center">Matheus Yudi 👋</h1>
